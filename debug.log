@@ -1,0 +1,3 @@
+[0914/161645.249:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[0915/143932.410:ERROR:process_info.cc(359)] UncheckedAllocate
+[0915/211011.117:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)

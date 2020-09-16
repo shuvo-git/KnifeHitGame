@@ -1,0 +1,79 @@
+2020-09-09T10:07:38.566Z - normal: Load ~/.CocosCreator/settings.json
+2020-09-09T10:07:38.611Z - normal: Initializing Asset Database
+2020-09-09T10:07:38.614Z - normal: checking language setting...
+2020-09-09T10:07:38.614Z - normal: Language: en
+2020-09-09T10:07:39.576Z - success: protocol editor-framework registered
+2020-09-09T10:07:39.576Z - success: protocol app registered
+2020-09-09T10:07:39.576Z - success: protocol theme registered
+2020-09-09T10:07:39.576Z - success: protocol packages registered
+2020-09-09T10:07:39.576Z - success: protocol uuid registerred
+2020-09-09T10:07:39.577Z - success: protocol db registerred
+2020-09-09T10:07:39.577Z - success: protocol thumbnail registerred
+2020-09-09T10:07:39.577Z - success: protocol unpack registerred
+2020-09-09T10:07:39.577Z - success: protocol disable-commonjs registerred
+2020-09-09T10:07:41.563Z - normal: connected!
+2020-09-09T10:07:41.565Z - normal: Check project G:\Porashuna\Dropbox\Porashuna\Code\Cocos2D_Projects\myCocosProj1
+2020-09-09T10:07:41.569Z - normal: Initializing project G:\Porashuna\Dropbox\Porashuna\Code\Cocos2D_Projects\myCocosProj1
+2020-09-09T10:07:41.747Z - success: adapters loaded
+2020-09-09T10:07:41.749Z - success: asset-db-debugger loaded
+2020-09-09T10:07:41.831Z - success: fb-audience-network loaded
+2020-09-09T10:07:41.861Z - success: fb-live-stream loaded
+2020-09-09T10:07:41.864Z - success: google-play-instant loaded
+2020-09-09T10:07:41.864Z - success: jsb-adapter loaded
+2020-09-09T10:07:41.867Z - success: package-manager loaded
+2020-09-09T10:07:41.867Z - success: runtime-adapters loaded
+2020-09-09T10:07:41.869Z - success: runtime-dev-tools loaded
+2020-09-09T10:07:41.873Z - success: sdkbox loaded
+2020-09-09T10:07:41.875Z - success: ui-kit-preview-extra loaded
+2020-09-09T10:07:41.882Z - success: ui-kit-preview loaded
+2020-09-09T10:07:41.933Z - success: alipay-minigame loaded
+2020-09-09T10:07:42.004Z - success: assets loaded
+2020-09-09T10:07:42.006Z - success: baidugame-opendata loaded
+2020-09-09T10:07:42.008Z - success: baidugame loaded
+2020-09-09T10:07:42.010Z - success: builder loaded
+2020-09-09T10:07:42.013Z - success: cloud-function loaded
+2020-09-09T10:07:42.184Z - success: cocos-services loaded
+2020-09-09T10:07:42.188Z - success: console loaded
+2020-09-09T10:07:42.190Z - success: curve-editor loaded
+2020-09-09T10:07:42.201Z - success: fb-instant-games loaded
+2020-09-09T10:07:42.204Z - success: game-window loaded
+2020-09-09T10:07:42.204Z - success: google-instant-games loaded
+2020-09-09T10:07:42.207Z - success: hierarchy loaded
+2020-09-09T10:07:42.210Z - success: huawei-runtime loaded
+2020-09-09T10:07:42.212Z - success: inspector loaded
+2020-09-09T10:07:42.228Z - success: cpk-publish loaded
+2020-09-09T10:07:42.229Z - success: keystore loaded
+2020-09-09T10:07:42.238Z - success: node-library loaded
+2020-09-09T10:07:42.239Z - success: open-recent-items loaded
+2020-09-09T10:07:42.242Z - success: oppo-runtime loaded
+2020-09-09T10:07:42.244Z - success: package-asset loaded
+2020-09-09T10:07:42.245Z - success: preferences loaded
+2020-09-09T10:07:42.247Z - success: project-importer loaded
+2020-09-09T10:07:42.248Z - success: project-settings loaded
+2020-09-09T10:07:42.265Z - success: qtt-runtime loaded
+2020-09-09T10:07:42.268Z - success: scene loaded
+2020-09-09T10:07:42.269Z - success: simulator-debugger loaded
+2020-09-09T10:07:42.269Z - success: sprite-editor loaded
+2020-09-09T10:07:42.307Z - success: store loaded
+2020-09-09T10:07:42.310Z - success: timeline loaded
+2020-09-09T10:07:42.313Z - success: vivo-runtime loaded
+2020-09-09T10:07:42.315Z - success: wechatgame-opendata loaded
+2020-09-09T10:07:42.318Z - success: wechatgame loaded
+2020-09-09T10:07:42.322Z - success: xiaomi-runtime loaded
+2020-09-09T10:07:42.480Z - success: im-plugin loaded
+2020-09-09T10:07:42.483Z - success: preview server running at http://localhost:7456
+2020-09-09T10:07:44.028Z - normal: Initializing Cocos2d
+2020-09-09T10:07:44.471Z - normal: Initializing engine extends
+2020-09-09T10:07:45.260Z - error: Failed to convert H:\Cocos\CocosDashboard\resources\.editors\Creator\2.4.0\resources\static\default-assets\model\primitives.fbx, message:Converter output:
+<none>
+    at H:\Cocos\CocosDashboard\resources\.editors\Creator\2.4.0\resources\app.asar\editor\share\assets\meta\fbx.js:1:995
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+2020-09-09T10:07:47.018Z - info: Cocos Service load base data!
+2020-09-09T10:07:47.844Z - error: TypeError: Cannot read property 'length' of undefined
+    at module.exports (H:\Cocos\CocosDashboard\resources\.editors\Creator\2.4.0\resources\app.asar\editor\page\worker\create-model-prefab.js:1:2351)
+    at EventEmitter.<anonymous> (H:\Cocos\CocosDashboard\resources\.editors\Creator\2.4.0\resources\app.asar\editor\page\worker\common-asset-worker.js:1:1282)
+    at EventEmitter.emit (events.js:194:13)
+    at H:\Cocos\CocosDashboard\resources\.editors\Creator\2.4.0\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3388
+    at EventEmitter.<anonymous> (H:\Cocos\CocosDashboard\resources\.editors\Creator\2.4.0\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3400)
+    at EventEmitter.emit (events.js:194:13)
+2020-09-09T10:57:17.754Z - info: shutdown preview server

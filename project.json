@@ -1,0 +1,44 @@
+{
+  "project_type": "javascript",
+  "debugMode": 1,
+  "showFPS": true,
+  "frameRate": 60,
+  "noCache": false,
+  "id": "gameCanvas",
+  "renderMode": 0,
+  "engineDir": "frameworks/cocos2d-html5",
+  "modules": [
+    "cocos2d",
+    "box2d",
+    "extensions"
+  ],
+  "jsList": [
+    "src/resource.js",
+    "src/app.js",
+
+    "src/Base/BaseLayer.js",
+
+    "src/GameController/GameControllerLayer.js",
+    "src/GameController/LevelController.js",
+    "src/GameController/GameOverLayer.js",
+
+    "src/UIComponent/UISprite.js",
+    "src/UIComponent/UIKnife.js",
+    "src/UIComponent/UIButton.js",
+    "src/UIComponent/UIBoard.js",
+    "src/UIComponent/UIApple.js",
+    "src/UIComponent/UIAttachedKnife.js",
+    "src/UIComponent/UIScoreLayer.js",
+    "src/UIComponent/UIAvailableKnifeLayer.js",
+
+    "src/PhysicsBody/BoxBody.js",
+    "src/PhysicsBody/CircleBody.js",
+
+    "src/Utility/Constants.js",
+    "src/Utility/Utility.js"
+
+
+  ],
+  "version": "2.4.0",
+  "isNew": false
+}
